@@ -1,7 +1,6 @@
 # THAT IS RESULT OF THIS SYSTEM:
 
 
-```markdown
 ## LLM Inference Platforms: Groq, NVIDIA, Llama.cpp, and the Future
 
 ### Introduction
@@ -147,4 +146,3 @@ Ultimately, the ongoing advancements in LLM inference will pave the way for more
 ### References
 
 [1]  "Groq Says It Can Deploy 1 Million AI Inference Chips in Two Years." *The Next Platform*, 27 Nov. 2023, https://www.nextplatform.com/2023/11/27/groq-says-it-can-deploy-1-million-ai-inference-chips-in-two-years/.
-```
